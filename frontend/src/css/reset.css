@@ -1,0 +1,25 @@
+/*reset*/
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+ul,
+ol,
+li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+/* 헤더 보더 용 */
+.border {
+    height: 2px;
+    background-color: #F0F0F0;
+}
+

@@ -1,0 +1,40 @@
+.AccommoTitleWrap {
+    width: 1200px;
+    margin-top: 35px;
+    display: flex;
+}
+
+.AccommoTitle {
+    width: 1100px;
+}
+
+.AccommoTitle h2 {
+    font-size: 25px;
+    margin-bottom: 25px;
+    font-weight: bold;
+}
+
+.AccommoTitle p {
+    font-size: 14px;
+    color: #6b7280;
+}
+
+.AccommoButton {
+    width: 140px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.shareButton,
+.heartButton {
+    width: 53px;
+    height: 53px;
+    border-radius: 30px;
+    background-color: #F8F9FA;
+    border: 1px solid #EAEDF0;
+}
+
+.heartButton {
+    background-color: #E5E5E5;
+}

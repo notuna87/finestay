@@ -1,0 +1,104 @@
+.searchWrap {
+    width: 100%;
+    height: 740px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        url("../../../public/img/mainImg/finestay_main_image.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 80px;
+}
+
+.logoWrap {
+    padding: 2rem 0px 0px;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+
+.logo_white {
+    height: 40px;
+    width: 40px;
+    margin-top: 60px;
+}
+
+.introduce {
+    margin-top: 100px;
+    color: #fff;
+    text-shadow: rgba(0, 0, 0, 0.4) 0px 2px 8px, rgba(0, 0, 0, 0.3) 0px 1px 4px;
+    text-align: center;
+}
+
+.bigIntroduce {
+    line-height: 56px;
+    font-size: 53px;
+    font-weight: 800;
+    min-width: 300px;
+
+}
+
+.smallIntroduce {
+    margin-top: 40px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+    min-width: 300px;
+
+}
+
+.searchBar {
+    max-width: 700px;
+    min-width: 300px;
+    background-color: #ccc;
+    margin-top: 100px;
+    border: 1px solid #bbb;
+    opacity: 0.9;
+    width: 50%;
+    height: 70px;
+    border-radius: 15px;
+    align-content: center;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.searchBar:hover {
+    scale: 1.05;
+    transition: 0.3s;
+}
+
+.searchIconWrap {
+    background-color: #bbb;
+    width: 45px;
+    height: 45px;
+    float: left;
+    margin-left: 30px;
+    border-radius: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    opacity: 0.9;
+}
+
+.searchIconWrap img {
+    width: 40%;
+    height: 40%;
+}
+
+.searchTextArea {
+    width: 90%;
+    padding-left: 70px;
+}
+
+.searchTextAreaTop {
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.searchTextAreaBottom {
+    font-size: 15px;
+    color: #555;
+    font-weight: bold;
+}

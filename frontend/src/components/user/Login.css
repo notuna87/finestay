@@ -1,0 +1,30 @@
+/* 로그인폼 버튼 시작*/
+.loginButton {
+    display: flex;
+}
+
+.loginButton Button,.registerButton {
+    background-color: #000 ;
+    border: none;
+    color: #fff ;
+    outline: none;
+}
+
+.loginButton Button:hover,.registerButton:hover {
+    background-color: #666;
+    color: #fff;
+    
+}
+
+.loginButton Button:focus {
+    outline: none;
+    
+}
+
+input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0px 1000px #fff inset !important;
+  -webkit-text-fill-color: black !important;
+  transition: background-color 5000s ease-in-out 0s;
+}
+/* 로그인폼 버튼 끝*/
+

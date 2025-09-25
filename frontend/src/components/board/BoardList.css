@@ -1,0 +1,44 @@
+td {
+    align-content: center;
+}
+
+td a {
+    text-decoration: none;
+    color: #000;
+}
+.boardH2 {
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.writeNumber {
+    width: 80px;
+}
+
+.boardTitle {
+    width: 900px;
+}
+
+.boardButton {
+    width: 120px;
+}
+
+.newBoardButtonWrap {
+    width: 100%;
+    height: 40px;
+}
+.newBoardButton {
+    float: right;
+    background-color: #000 !important;
+    border: none !important;
+}
+
+.boardEditButton {
+    background-color: #666 !important;
+    border: none !important;
+}
+
+.boardDeleteButton {
+    background-color: #333 !important;
+    border: none !important;
+}

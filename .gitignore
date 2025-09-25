@@ -1,0 +1,19 @@
+# Node (React)
+node_modules/
+build/
+dist/
+.env
+*.zip
+
+# Spring Boot
+target/
+*.class
+*.log
+*.iml
+.idea/
+
+# Python (HuggingFace)
+__pycache__/
+*.pyc
+.venv/
+.env

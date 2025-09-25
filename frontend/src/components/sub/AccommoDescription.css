@@ -1,0 +1,18 @@
+.discriptionWrap {
+    width: 1200px;
+    padding : 30px 0;
+}
+
+.discriptionWrap p {
+    color: #333;
+}
+
+.shareButton,.heartButton {
+    align-content: center;
+}
+
+.AccommoButton img {
+    width: 50%;
+    display: block;
+    opacity: 0.8;
+}
