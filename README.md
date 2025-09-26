@@ -1,55 +1,34 @@
 
 
-<h1 align="center">📚 JSP/Servlet 개인 프로젝트 - 알라딘</h1>
-<p align="center">JSP와 Servlet 기반으로 구현된 동적 웹 프로젝트</p>
+<h1 align="center">📚 React/Spring Boot 개인 프로젝트 - FineStay</h1>
+<p align="center">React와 Spring Boot 기반으로 구현된 동적 웹 프로젝트</p>
 <br/>
 
 ## 📌 목차
 
-- [개요](https://github.com/notuna87/noh_aladinJSP#-개요)
-- [기술 스택](https://github.com/notuna87/noh_aladinJSP#-기술-스택)
-- [프로젝트 설계](https://github.com/notuna87/noh_aladinJSP#-프로젝트-설계)
-- [실행 화면](https://github.com/notuna87/noh_aladinJSP#-실행-화면)
-- [PPT](https://github.com/notuna87/noh_aladinJSP#-PPT)
-- [개선사항](https://github.com/notuna87/noh_aladinJSP#-개선사항)
+- [개요]
+- [기술 스택]
+- [기능 구현 PPT]
+- [개선사항]
 
 ## 📖 개요
-- 프로젝트 목표 : JSP/Servlet 기반의 웹 애플리케이션을 구현, DB 연동을 통해 회원 및 게시판 기능을 개발
+- 프로젝트 목표 : React/Spring Boot 기반의 웹 애플리케이션, JWT를 이용한 회원 및 게시판 기능, Hugging Face를 통한 감성분석 구현
 - 개발 기간 : 25/06/02 ~ 25/06/23
 
 ## 🛠️ 기술 스택
-- Language : `JAVA(11)`, `JavaScript(1.5)`
-- Framework / Library: `JSP(JavaServer Pages)(2.3)`, `Servlet(4.0)`, `JSTL`, `JDBC`,`DBManager`,`EL`,`jQuery`
+- Language : `Java(17)`,`Spring Boot`, `React` ,`JavaScript`
+- Framework / Library: `React Router`, `Lombok`, `Axios`
 - Database : `Mysql(8.0)`
-- Server : `Apache Tomcat(9.0.70)`
-- Tool : `Eclipse IDE (4.29.0)`
-- API : `Kakao Book Search API`
+- Tool : `IntelliJ`, `VisualStudioCode`, `Postman`
+- API : `Kakao Maps API`, `React date-picker`
 - ETC : `Git`
 
-## 🧩 프로젝트 설계
-<h3 align="center">Usecase Diagram</h3>
-
-
-<h3 align="center">ERD</h3>
-
-
-<h3 align="center">Class Diagram</h3>
 
 
 
-## 🖥️ 실행 화면
-
-로그인 및 로그아웃
+## 🖥️ 기능 구현
 
 
-마이페이지 및 개인정보 수정
-
-
-게시판 업로드, 수정, 삭제
-
-## 🗂️ PPT - [PDF 다운로드]()
-
-</br>
 
 ## 🚀 개선사항
 </br>
